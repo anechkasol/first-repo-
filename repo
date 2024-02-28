@@ -1,0 +1,3 @@
+git remote добавляет origin https://github.com/anechkasol/first-repo-1.git
+ветвь git -M main
+git push -u origin main
